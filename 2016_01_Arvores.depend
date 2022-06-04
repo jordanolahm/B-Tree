@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1464008774 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\arvorebinaria.c
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1464007118 c:\_meus\disciplinas\edpo_ec\2016_01_arvores\arvorebinaria.h
+
+1462890889 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\int.c
+	<stdio.h>
+
+1464009187 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArvoreBinaria.h"
+	"Int.h"
+	"Utilitarios.h"
+
+1462891028 c:\_meus\disciplinas\edpo_ec\2016_01_arvores\int.h
+
+1440439562 c:\_meus\disciplinas\edpo_ec\2016_01_arvores\utilitarios.h
+
+1463493091 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\utilitarios.c
+	<stdio.h>
+	"Utilitarios.h"
+
+1464706862 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\arvorebinaria.c
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinaria.h"
+	"FilaDinamica.h"
+	"Int.h"
+
+1464657416 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\arvorebinaria.h
+
+1464014581 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\filadinamica.h
+
+1464014921 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\filadinamica.c
+	<stdlib.h>
+	"FilaDinamica.h"
+
+1462890889 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\int.c
+	<stdio.h>
+
+1464704983 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArvoreBinaria.h"
+	"Int.h"
+	"Utilitarios.h"
+
+1462891028 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\int.h
+
+1440439562 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\utilitarios.h
+
+1463493091 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl\utilitarios.c
+	<stdio.h>
+	"Utilitarios.h"
+
+1464014921 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\filadinamica.c
+	<stdlib.h>
+	"FilaDinamica.h"
+
+1464014581 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\filadinamica.h
+
+1462890889 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\int.c
+	<stdio.h>
+
+1463493091 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\utilitarios.c
+	<stdio.h>
+	"Utilitarios.h"
+
+1440439562 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\utilitarios.h
+
+1465240839 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\arvorebinaria.c
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinaria.h"
+	"FilaDinamica.h"
+	"Int.h"
+
+1465233788 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\arvorebinaria.h
+
+1462891028 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\int.h
+
+1465240853 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - avl - final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArvoreBinaria.h"
+	"Int.h"
+	"Utilitarios.h"
+
+1465509830 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - b\btree.c
+	"btree.h"
+
+1465509833 c:\_meus\disciplinas\edpo_ec\2016_01_arvores - b\btree.h
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+
+1465515094 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores - b\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"btree.h"
+
